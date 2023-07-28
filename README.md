@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryoji3191
 - 👀 I’m interested in Java, groovy, Grails, C, Object-C
-- 🌱 I’m currently learning python, VSCode, GAS
+- 🌱 I’m currently learning python, VSCode, GAS, English
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
